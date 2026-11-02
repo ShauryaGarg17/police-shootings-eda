@@ -17,9 +17,6 @@ police-shootings-eda/
 │   └── README.md                # dataset acquisition and upload notes
 ├── reports/
 │   └── eda_analysis_outputs.pdf # exported notebook and actual output screenshots
-└── docs/
-    ├── speaker_notes_with_results.docx
-    └── cell_speaker_notes.md
 ```
 
 ## How to run
@@ -84,12 +81,8 @@ For fuller chart-by-chart interpretation, see `docs/speaker_notes_with_results.d
 
 - **Executed results:** [`reports/eda_analysis_outputs.pdf`](reports/eda_analysis_outputs.pdf)
 - **Presentation notes with output interpretation:** [`docs/speaker_notes_with_results.docx`](docs/speaker_notes_with_results.docx)
-- **Additional cell notes:** [`docs/cell_speaker_notes.md`](docs/cell_speaker_notes.md)
 
 ## Author
+Shaurya Garg (23BDS0161)
 
-Shaurya Garg — EDA course project.
 
-## Dataset and usage rights
-
-The dataset source and its redistribution license were not provided with the available project files. Check the original source's terms before sharing the CSV publicly. No software license has been assigned to this repository package; add one only after choosing the terms you want.
